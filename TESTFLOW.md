@@ -22,6 +22,6 @@ from numpy.testing import assert_almost_equal, assert_equal, assert_array_equal,
 - expected: the expected output according to prior knowledge or obtained through other methods
 - assert_equal(actual, expected)
 
-## Examples: [*test_data_utils.py*](https://github.com/berkeley-stat222/mousestyles)
+## Examples: [*test_data_utils.py*](https://github.com/berkeley-stat222/mousestyles/blob/master/mousestyles/tests/test_data_utils.py)
 
-## Run the tests with the command: ```make test```
+## Run the tests with the command: `make test`
